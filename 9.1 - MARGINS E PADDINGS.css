@@ -1,0 +1,17 @@
+
+body {
+    margin: 0px;
+}
+
+
+.exemplo {
+    border: 2px solid green;
+    padding: 20px;
+    margin: 30px;
+}
+
+.exemplo2 {
+    border: 2px solid green;
+    padding: 10px 50px;
+    margin: 30px;
+}

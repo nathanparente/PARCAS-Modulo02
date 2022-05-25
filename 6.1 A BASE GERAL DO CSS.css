@@ -1,0 +1,25 @@
+#Título {
+    color: green;
+    font-weight: bold;
+}
+
+.texto {
+    color: red;
+    font-weight: normal;
+}
+
+img {
+
+}
+
+#Título, .texto {
+    font-size: 40px;
+}
+
+ol li {
+    color: pink;
+}
+
+ul li {
+    color: orange;
+}

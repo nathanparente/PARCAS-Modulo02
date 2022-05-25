@@ -1,0 +1,12 @@
+.area7link {
+    color: #000;
+    font-size: 20px;
+}
+
+.area7link:hover {
+    color: yellow;
+}
+
+.area7link:visited {
+    color: pink;
+}

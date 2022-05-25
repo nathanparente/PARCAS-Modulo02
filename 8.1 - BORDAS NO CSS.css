@@ -1,0 +1,47 @@
+#Título {
+    background-color: red;
+    color: #fff;
+}
+
+.p1 {
+    border:3px solid #0000ff ;
+}
+
+.p2 {
+    border:3px dotted #0000ff ;
+}
+
+.p3 {
+    border:3px dashed #0000ff ;
+}
+
+.p4 {
+    border:5px double #0000ff ;
+}
+
+.p5 {
+    border:5px groove #0000ff ;
+}
+
+.p6 {
+    border:5px none ;
+}
+
+.p7 {
+    background-color: blue;
+    border-radius: 5px;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border-radius: 100px;
+    border: 5px solid orangered;
+}
+
+img {
+    border: 5px solid red;
+    border-radius: 80px;
+    overflow: hidden;
+}
